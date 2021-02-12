@@ -50,7 +50,7 @@ header {
   width: 100%;
   background-color:#FFFFFF;
   padding: 20px 0;
-  box-shadow: 0 4px 2px -2px rgba(58, 59, 69, .15);
+  box-shadow: 0px 9px 30px -2px rgba(58, 59, 69, .15);
   
   h1 {
     color: #1CC88A;
@@ -65,6 +65,7 @@ footer {
   padding: 40px 0;
   text-align: center;
   margin-top: 50px;
+  box-shadow: 0px -21px 36px -27px  rgba(58, 59, 69, .15);
 }
 
 /* ================= Responsive ================= */

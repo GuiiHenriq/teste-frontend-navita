@@ -1,24 +1,18 @@
-# test-front-end-navita
 
-## Project setup
-```
-npm install
-```
+# Teste Navita :rocket:
+Criado uma SPA consumindo duas API's e renderizando uma lista.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Rodar Projeto :computer:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+ - Faça o clone do projeto:
+	 - git clone https://github.com/GuiiHenriq/teste-frontend-navita
+ - Instale as dependências do projeto:
+	 - npm install / yarn install
+ - Rode o projeto:
+	 - npm run serve/ yarn serve
 
-### Lints and fixes files
-```
-npm run lint
-```
+> Versão do Node Recomendado: 14xx
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Online :fire:
+
+[https://navita-teste-front.netlify.app/](https://navita-teste-front.netlify.app/)

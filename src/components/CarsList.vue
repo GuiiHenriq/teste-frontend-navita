@@ -100,6 +100,7 @@ export default {
        h3 {
          font-size: 22px;
          font-weight: bold;
+         color: #4E73DF;
        }
      }
 
@@ -115,7 +116,6 @@ export default {
          padding: 15px 0;
          font-size: 20px;
          font-weight: bold;
-         color: #4E73DF;
        }
 
        ul {
@@ -173,6 +173,10 @@ export default {
       &--infos {
         h4 {
          font-size: 18px;
+       }
+
+       ul {
+         max-height: 300px;
        }
 
        li {
